@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name" : "Minh",
+        "tel": "098947478474",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name" : "Trí",
+        "tel": "098947478474",
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name" : "Nguyễn",
+        "tel": "098947478474",
+        "permission": 2
+    },
+    {
+        "id": 4,
+        "name" : "Hồ",
+        "tel": "098947478474",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name" : "Tuấn",
+        "tel": "098947478474",
+        "permission": 1
+    }
+]
